@@ -52,6 +52,7 @@ namespace arrayExercise
                 }
             }
             return array;
+            // lets put some comments in here
         }
         
         private static string[] RemoveEntry(string[] array, string EntryToRemove)
